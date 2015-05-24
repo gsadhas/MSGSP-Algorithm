@@ -1,0 +1,45 @@
+
+The number of length 1 sequential patterns is 7
+Pattern : <{20}> Count : 1 
+Pattern : <{30}> Count : 1 
+Pattern : <{50}> Count : 1 
+Pattern : <{60}> Count : 1 
+Pattern : <{70}> Count : 1 
+Pattern : <{80}> Count : 2 
+Pattern : <{40}> Count : 2 
+
+The number of length 2 sequential patterns is 16
+Pattern : <{20,30}> Count : 1 
+Pattern : <{20}{50}> Count : 1 
+Pattern : <{20}{70}> Count : 1 
+Pattern : <{20}{80}> Count : 1 
+Pattern : <{20}{40}> Count : 1 
+Pattern : <{30}{50}> Count : 1 
+Pattern : <{30}{70}> Count : 1 
+Pattern : <{30}{80}> Count : 1 
+Pattern : <{30}{40}> Count : 1 
+Pattern : <{50,70}> Count : 1 
+Pattern : <{50,80}> Count : 1 
+Pattern : <{40}{50}> Count : 1 
+Pattern : <{60,80}> Count : 1 
+Pattern : <{70,80}> Count : 1 
+Pattern : <{40}{70}> Count : 1 
+Pattern : <{40}{80}> Count : 1 
+
+The number of length 3 sequential patterns is 8
+Pattern : <{20,30}{50}> Count : 1 
+Pattern : <{20}{50,70}> Count : 1 
+Pattern : <{20}{70,80}> Count : 1 
+Pattern : <{30}{50,70}> Count : 1 
+Pattern : <{30}{70,80}> Count : 1 
+Pattern : <{50,70,80}> Count : 1 
+Pattern : <{40}{50,80}> Count : 1 
+Pattern : <{40}{70,80}> Count : 1 
+
+The number of length 4 sequential patterns is 3
+Pattern : <{20,30}{50,70}> Count : 1 
+Pattern : <{20}{50,70,80}> Count : 1 
+Pattern : <{30}{50,70,80}> Count : 1 
+
+The number of length 5 sequential patterns is 1
+Pattern : <{20,30}{50,70,80}> Count : 1 

@@ -1,0 +1,39 @@
+
+The number of length 1 sequential patterns is 8
+Pattern : <{30}> Count : 23 
+Pattern : <{70}> Count : 25 
+Pattern : <{90}> Count : 17 
+Pattern : <{20}> Count : 26 
+Pattern : <{80}> Count : 22 
+Pattern : <{50}> Count : 22 
+Pattern : <{10}> Count : 25 
+Pattern : <{40}> Count : 25 
+
+The number of length 2 sequential patterns is 19
+Pattern : <{30,70}> Count : 22 
+Pattern : <{30}{70}> Count : 22 
+Pattern : <{70}{30}> Count : 10 
+Pattern : <{30}{20}> Count : 10 
+Pattern : <{20}{30}> Count : 17 
+Pattern : <{30,80}> Count : 12 
+Pattern : <{30}{80}> Count : 17 
+Pattern : <{80}{30}> Count : 10 
+Pattern : <{30}{50}> Count : 5 
+Pattern : <{70}{20}> Count : 10 
+Pattern : <{20}{70}> Count : 22 
+Pattern : <{70,80}> Count : 22 
+Pattern : <{80}{70}> Count : 15 
+Pattern : <{70}{50}> Count : 5 
+Pattern : <{50}{90}> Count : 17 
+Pattern : <{10}{90}> Count : 17 
+Pattern : <{40}{90}> Count : 17 
+Pattern : <{20}{80}> Count : 17 
+Pattern : <{10,40}> Count : 25 
+
+The number of length 3 sequential patterns is 6
+Pattern : <{30}{70}{30}> Count : 10 
+Pattern : <{30,80}{50}> Count : 5 
+Pattern : <{30}{80}{20}> Count : 10 
+Pattern : <{20}{70}{20}> Count : 10 
+Pattern : <{70,80}{20}> Count : 10 
+Pattern : <{70,80}{50}> Count : 5 
